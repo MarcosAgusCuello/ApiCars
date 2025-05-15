@@ -1,0 +1,208 @@
+[
+    {
+        "brand": "toyota",
+        "models": [
+            {
+                "id": 1,
+                "name": "corolla",
+                "type": "sedan",
+                "description": "A compact car with great fuel efficiency",
+                "variants": [
+                    {
+                        "id": 1,
+                        "name": "2.0 XLI CVT",
+                        "type": "sedan",
+                        "fuel": "gasoline",
+                        "capacity": "50L",
+                        "weight": "1.375kg",
+                        "engine": "4 cilinders",
+                        "cc": "2000cc",
+                        "cv": "170 CV",
+                        "nm": "203 nm",
+                        "efficiency": "11L/100",
+                        "transmition": "AT",
+                        "sheet": "Toyota"
+                    },
+                    {
+                        "id": 2,
+                        "name": "2.0 XEI CVT",
+                        "type": "sedan",
+                        "fuel": "gasoline",
+                        "capacity": "50L",
+                        "weight": "1.390kg",
+                        "engine": "4 cilinders",
+                        "cc": "2000cc",
+                        "cv": "170 CV",
+                        "nm": "203 nm",
+                        "efficiency": "11L/100",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "2.0 SEG CVT",
+                        "type": "sedan",
+                        "fuel": "gasoline",
+                        "capacity": "50L",
+                        "weight": "1.405kg",
+                        "engine": "4 cilinders",
+                        "cc": "2000cc",
+                        "cv": "170 CV",
+                        "nm": "203 nm",
+                        "efficiency": "11L/100",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 4,
+                        "name": "HEV 1.8 XEI eCVT",
+                        "type": "sedan",
+                        "fuel": "Hibrid",
+                        "capacity": "43L",
+                        "weight": "1.405kg",
+                        "engine": "4 cilinders",
+                        "cc": "1800cc",
+                        "cv": "98 CV",
+                        "kwcv": "122 CV",
+                        "torque": "142 nm",
+                        "efficiency": "5L/100",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 5,
+                        "name": "HEV 1.8 SEG eCVT",
+                        "type": "sedan",
+                        "fuel": "Hibrid",
+                        "capacity": "43L",
+                        "weight": "1.425kg",
+                        "engine": "4 cilinders",
+                        "cc": "1800cc",
+                        "cv": "98 CV",
+                        "kwcv": "122 CV",
+                        "torque": "142 nm",
+                        "efficiency": "5L/100",
+                        "transmition": "AT",
+                        "sheet": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "camry",
+                "type": "executive sedan",
+                "description": "A luxury sedan",
+                "variants": [
+                    {
+                        "id": 1,
+                        "name": "2.5 LE",
+                        "type": "luxury sedan",
+                        "sheet": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "2.5 SE",
+                        "type": "luxury sedan",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "2.5 XLE",
+                        "type": "luxury sedan",
+                        "sheet": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "rav4",
+                "type": "suv",
+                "description": "a vestaile SUV with hybrid options",
+                "variants": [
+                    {
+                        "id": 1,
+                        "name": "LE",
+                        "type": "suv",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "XLE",
+                        "type": "suv",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "limited",
+                        "type": "suv",
+                        "sheet": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "brand": "ford",
+        "models": [
+            {
+                "id": 1,
+                "name": "f-150",
+                "type": "truck",
+                "description": "A very capable truck",
+                "variants": [
+                    {
+                        "id": 1, 
+                        "name": "XL",
+                        "type": "truck",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "XLT",
+                        "type": "truck",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "lariat",
+                        "type": "truck",
+                        "transmition": "AT",
+                        "sheet": ""
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "mustang",
+                "type": "muscle car",
+                "description": "An american sport car",
+                "variants": [
+                    {
+                        "id": 1,
+                        "name": "ecoboost",
+                        "type": "muscle car",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 2,
+                        "name": "gt",
+                        "type": "muscle car",
+                        "transmition": "AT",
+                        "sheet": ""
+                    },
+                    {
+                        "id": 3,
+                        "name": "march 1",
+                        "type": "muscle car",
+                        "transmition": "AT",
+                        "sheet": "" 
+                    }
+                ]
+
+            }
+        ]
+    }
+]
